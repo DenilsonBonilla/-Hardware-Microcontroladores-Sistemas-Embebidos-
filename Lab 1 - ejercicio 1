@@ -1,0 +1,6 @@
+import numpy as np
+
+A = np.random.rand(1000,1000)
+B = np.random.rand(1000,1000)
+
+C = np.dot(A, B)
