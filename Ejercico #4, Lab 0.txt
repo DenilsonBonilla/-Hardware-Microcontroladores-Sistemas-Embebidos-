@@ -1,0 +1,17 @@
+# Crear un directorio
+mkdir mi_directorio
+
+# Crear un archivo dentro del directorio
+touch mi_directorio/mi_archivo.txt
+
+# Editar el archivo con Nano
+nano mi_directorio/mi_archivo.txt
+# (Escribe el contenido, luego presiona Ctrl + O para guardar, y Ctrl + X para salir)
+
+# O, editar el archivo con Vi
+vi mi_directorio/mi_archivo.txt
+# (Presiona i para entrar en modo de inserción, escribe el contenido, presiona Esc, escribe :wq y presiona Enter para guardar y salir)
+
+# O, editar el archivo con Vim
+vim mi_directorio/mi_archivo.txt
+# (Presiona i para entrar en modo de inserción, escribe el contenido, presiona Esc, escribe :wq y presiona Enter para guardar y salir)
